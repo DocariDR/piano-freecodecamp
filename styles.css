@@ -29,6 +29,7 @@ html {
 }
 
 .keys {
+    display: flex;
     background-color: #040404;
     width: 949px;
     height: 180px;
@@ -42,7 +43,6 @@ html {
     width: 41px;
     height: 175px;
     margin: 2px;
-    float: left;
     border-radius: 0 0 3px 3px;
 }
 
