@@ -50,7 +50,7 @@ html {
     background-color: #f0f0f0;
 }
 
-.key.black--key::after {
+.black--key::after {
     background-color: #1d1e22;
     content: "";
     position: absolute;
